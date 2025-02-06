@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppCICD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac57e9adb4db87079b8f716eaef3e67bdbfae95c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppCICD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppCICD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
